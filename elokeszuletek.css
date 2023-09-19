@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0 solid;
+}
+
+body {
+    background-color: rgb(230, 228, 233);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    color: #c19f65;
+    font-family: 'Lora', serif;
+    margin: 20px;
+}
+
+.pictures {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    height: 250px;
+    width: 400px;
+    border-radius: 30px;
+    margin: 10px;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
