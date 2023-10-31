@@ -81,25 +81,25 @@ li {
 }
 
 .prep {
-    background-image: linear-gradient(to right, rgba(250, 250, 250, 0.5), rgb(255, 250, 250, 0.5)), url(/img/prep.jpg);
+    background-image: linear-gradient(to right, rgba(250, 250, 250, 0.5), rgb(255, 250, 250, 0.5)), url(/img/prep-comp.jpg);
     background-size: cover;
     transition: all .2s ease-in-out;
 }
 
 .church {
-    background-image:linear-gradient(to right, rgba(250, 250, 250, 0.5), rgb(255, 250, 250, 0.5)), url(/img/church.JPG);
+    background-image:linear-gradient(to right, rgba(250, 250, 250, 0.5), rgb(255, 250, 250, 0.5)), url(/img/church-comp.JPG);
     background-size: cover;
     transition: all .2s ease-in-out;
 }
 
 .wedding {
-    background-image:linear-gradient(to right, rgba(250, 250, 250, 0.5), rgb(255, 250, 250, 0.5)), url(/img/wedding.jpg);
+    background-image:linear-gradient(to right, rgba(250, 250, 250, 0.5), rgb(255, 250, 250, 0.5)), url(/img/wedding-comp.jpg);
     background-size: cover;
     transition: all .2s ease-in-out;
 }
 
 .creative {
-    background-image:linear-gradient(to right, rgba(250, 250, 250, 0.5), rgb(255, 250, 250, 0.5)), url(/img/creative.jpg);
+    background-image:linear-gradient(to right, rgba(250, 250, 250, 0.5), rgb(255, 250, 250, 0.5)), url(/img/creative-comp.jpg);
     background-size: cover;
     transition: all .2s ease-in-out;
 
@@ -132,10 +132,10 @@ li {
 
 .a {
     text-decoration: none;
-    color: #bc7151;
+    color: #836633;
 }
 
 a {
     text-decoration: none;
-    color: #c19f65;
+    color: #836633;
 }

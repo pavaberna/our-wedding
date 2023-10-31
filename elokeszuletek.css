@@ -9,14 +9,18 @@ body {
     background-color: rgb(230, 228, 233);
 }
 
-header {
+.back {
+    font-size: 20px;
+    color: #c19f65;
+}
+.name {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 60px;
+    font-size: 40px;
     color: #c19f65;
     font-family: 'Lora', serif;
-    margin: 20px;
+    margin: 10px;
 }
 
 .pictures {
@@ -34,6 +38,13 @@ img {
     cursor: pointer;
 }
 
-img:hover{
-    transform: scale(1.1);
+img:hover {
+    transform: scale(1.2);
+}
+
+a {
+    text-decoration: none;
+    margin: 50px;
+    color: #c19f65;
+
 }
